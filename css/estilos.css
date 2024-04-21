@@ -1,0 +1,54 @@
+#logotipo{
+    width: 7rem;
+}
+
+
+  /* Estilo para las imágenes del carrusel */
+.carousel-item img {
+    display: block;
+  margin: 0 auto;
+    max-width: 50%; 
+    height: auto; 
+    max-height: 250px; 
+}
+
+#textoejemplo{
+    color:rgb(108, 70, 1);
+    margin-left:180px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    width:70%;
+    font-size: 18px;;
+}
+
+#noticia img{
+    width: 15%;
+    height:15%;
+}
+
+#noticia p{
+    width: 50%;
+}
+
+#noticia1 img{
+    width: 15%;
+    height:15%;
+    margin-right: 400px;
+}
+
+#noticia1 p{
+    width: 90%;
+}
+
+.col img{
+    width: 200px;
+    height: 150px;
+}
+
+.carouselExampleAutoplaying img{
+    display: block;
+  margin: 0 auto;
+    max-width: 50%; 
+    height: auto; 
+    max-height: 250px; 
+}
